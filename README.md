@@ -1,6 +1,11 @@
 ### 👋 Hi there 
+Welcome!
+I'm a Software Engineer with five years of professional experience. I have honed my skills creating web applications and restful API's. I've explored several differents technologies working on differents projects.
 
 ### 🚀 Expertise
+Throughout my five years of experience, I have worked on different projects, focusing on developing responsive and user-friendly frontend applications. My expertise consists in technologies such as HTML5, CSS3, JavaScript, TypeScript, React, and Angular.
+In addition to my frontend experience, I have also gained valuable experience in building RESTful APIs using Node.js.
+
 
 ### 💻 Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -18,7 +23,7 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
 ### 🌐 Socials
-
+https://www.linkedin.com/in/natally-cordeiro-b6663a15a/
 <!--
 **natallyriqueto/natallyriqueto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
