@@ -26,6 +26,8 @@ In addition to my frontend experience, I have also gained valuable experience in
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
+![LinkedIn](https://www.linkedin.com/in/natally-cordeiro-b6663a15a/)
+
 <!--
 **natallyriqueto/natallyriqueto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
