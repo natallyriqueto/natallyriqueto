@@ -1,8 +1,8 @@
-###👋 Hi there 
+### 👋 Hi there 
 
-###🚀 Expertise
+### 🚀 Expertise
 
-###💻 Tech Stack 
+### 💻 Tech Stack 
 
 <!--
 **natallyriqueto/natallyriqueto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
