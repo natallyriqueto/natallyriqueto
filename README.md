@@ -23,10 +23,7 @@ In addition to my frontend experience, I have also gained valuable experience in
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
 ### 🌐 Socials
-https://www.instagram.com/winteriscoming0/
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/winteriscoming0/)
 
 <!--
 **natallyriqueto/natallyriqueto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
