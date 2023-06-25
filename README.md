@@ -1,9 +1,9 @@
 ### 👋 Hi there 
 Welcome!
-I'm a Software Engineer with five years of professional experience. I have honed my skills creating web applications and restful API's. I've explored several differents technologies working on differents projects.
+I'm a Software Engineer with five years of professional experience. I have honed my skills creating web applications and restful API's. I've explored many technologies working on differents projects.
 
 ### 🚀 Expertise
-Throughout my five years of experience, I have worked on different projects, focusing on developing responsive and user-friendly frontend applications. My expertise consists in technologies such as HTML5, CSS3, JavaScript, TypeScript, React, and Angular.
+Throughout my five years of experience, I have worked on different projects, focusing on developing responsive and user-friendly frontend applications. My expertise lies in some frontend technologies, including HTML5, CSS3, JavaScript, TypeScript, React, and Angular.
 In addition to my frontend experience, I have also gained valuable experience in building RESTful APIs using Node.js.
 
 
